@@ -36,7 +36,7 @@ CMD => php artisan serve
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/codeigniter4-pagination/main/Screenshots/Output.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel_qr-code/main/Screenshots/Output.png)
 
 
 ## 🔗 www.codehafeez.com
